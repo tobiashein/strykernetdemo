@@ -1,0 +1,6 @@
+{
+	"stryker-config": {
+		"test-case-filter": "Category=basic",
+		"project": "strykernetdemo.csproj"
+	}
+}
